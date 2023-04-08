@@ -12,4 +12,4 @@ async def on_ready():
 async def echo(ctx, *, message):
   await ctx.send(message)
   
- client.run(token-goes-here)
+ client.run(token-goes-here) #Replace "token-goes-here" with your bot's token.
